@@ -1,4 +1,3 @@
-# Salary-Dot-Com-Scraper-master
 
 # Salary.com Data Scraper
 
@@ -132,10 +131,10 @@ The output CSV file (`salary-results.csv`) will contain the following columns:
 ## Usage
 
 1. Modify the job title and cities as needed.
-2. Run the script to extract and save the salary data.
+2. Run the script in either Colab or Jupyter Notebook cell by cell to extract and save the salary data.
 
 ```bash
-python salary_scraper.py
+salary_scraper.py
 ```
 
 ## License
