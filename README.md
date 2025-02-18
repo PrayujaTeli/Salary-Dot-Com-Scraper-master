@@ -1,8 +1,5 @@
 # Salary-Dot-Com-Scraper-master
 
-Here’s the README file formatted for GitHub:
-
-```markdown
 # Salary.com Data Scraper
 
 This Python project extracts salary information for specific job titles across the 317 largest U.S. cities using web scraping techniques.
