@@ -133,13 +133,3 @@ The output CSV file (`salary-results.csv`) will contain the following columns:
 1. Modify the job title and cities as needed.
 2. Run the script in either Colab or Jupyter Notebook cell by cell to extract and save the salary data.
 
-```bash
-salary_scraper.py
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to copy and paste the above content for your GitHub project!
